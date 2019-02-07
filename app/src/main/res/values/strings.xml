@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20190206-EraldHaka-NYCSchools</string>
+    <string name="school_data">School name: %s sec \nSAT Reading Avg Score: %s \nSAT Writing Avg Score: %s \nSAT Math Avg Score: %s</string>
+    <string name="school_no_sat_data_found">School name: %s has no SAT information </string>
+</resources>
